@@ -1,0 +1,25 @@
+body {
+  background: #f9f8fe;
+  max-width: 960px;
+}
+
+a {
+  color: #9670f4;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.App-logo {
+  max-width: 80px;
+  display: block;
+  margin: 0 auto;
+}
+.App-header {
+  margin: 30px 0;
+}
+.App-footer {
+  text-align: center;
+  font-size: 10px;
+}
